@@ -1,3 +1,3 @@
 "use strict";
 
-let a = "Hello"
+let a = "Hello";
